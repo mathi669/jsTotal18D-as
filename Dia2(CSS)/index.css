@@ -1,0 +1,17 @@
+table, th {
+    border: 1px solid black;
+}
+
+.p-bold {
+    margin: 20px;
+    border: 3px;
+    display: flex;
+    border-style: solid;
+    border-color: blue;
+    padding: 60px;
+    width: 400px;
+}
+
+.bold-header{
+    font-weight: bold;
+}
